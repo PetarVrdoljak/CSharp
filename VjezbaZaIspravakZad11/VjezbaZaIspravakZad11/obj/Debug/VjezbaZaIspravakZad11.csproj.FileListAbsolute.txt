@@ -1,0 +1,7 @@
+C:\Users\flyin\Documents\C#\VjezbaZaIspravakZad11\VjezbaZaIspravakZad11\bin\Debug\VjezbaZaIspravakZad11.exe.config
+C:\Users\flyin\Documents\C#\VjezbaZaIspravakZad11\VjezbaZaIspravakZad11\bin\Debug\VjezbaZaIspravakZad11.exe
+C:\Users\flyin\Documents\C#\VjezbaZaIspravakZad11\VjezbaZaIspravakZad11\bin\Debug\VjezbaZaIspravakZad11.pdb
+C:\Users\flyin\Documents\C#\VjezbaZaIspravakZad11\VjezbaZaIspravakZad11\obj\Debug\VjezbaZaIspravakZad11.csproj.AssemblyReference.cache
+C:\Users\flyin\Documents\C#\VjezbaZaIspravakZad11\VjezbaZaIspravakZad11\obj\Debug\VjezbaZaIspravakZad11.csproj.CoreCompileInputs.cache
+C:\Users\flyin\Documents\C#\VjezbaZaIspravakZad11\VjezbaZaIspravakZad11\obj\Debug\VjezbaZaIspravakZad11.exe
+C:\Users\flyin\Documents\C#\VjezbaZaIspravakZad11\VjezbaZaIspravakZad11\obj\Debug\VjezbaZaIspravakZad11.pdb
