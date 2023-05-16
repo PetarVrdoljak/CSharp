@@ -1,0 +1,6 @@
+C:\Users\flyin\Documents\C#\PrviKolokvijDrugiZadatak\PrviKolokvijDrugiZadatak\bin\Debug\PrviKolokvijDrugiZadatak.exe.config
+C:\Users\flyin\Documents\C#\PrviKolokvijDrugiZadatak\PrviKolokvijDrugiZadatak\bin\Debug\PrviKolokvijDrugiZadatak.exe
+C:\Users\flyin\Documents\C#\PrviKolokvijDrugiZadatak\PrviKolokvijDrugiZadatak\bin\Debug\PrviKolokvijDrugiZadatak.pdb
+C:\Users\flyin\Documents\C#\PrviKolokvijDrugiZadatak\PrviKolokvijDrugiZadatak\obj\Debug\PrviKolokvijDrugiZadatak.csproj.CoreCompileInputs.cache
+C:\Users\flyin\Documents\C#\PrviKolokvijDrugiZadatak\PrviKolokvijDrugiZadatak\obj\Debug\PrviKolokvijDrugiZadatak.exe
+C:\Users\flyin\Documents\C#\PrviKolokvijDrugiZadatak\PrviKolokvijDrugiZadatak\obj\Debug\PrviKolokvijDrugiZadatak.pdb
