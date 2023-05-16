@@ -1,0 +1,7 @@
+C:\Users\flyin\Documents\C#\PetaVjezba4\PetaVjezba4\bin\Debug\PetaVjezba4.exe.config
+C:\Users\flyin\Documents\C#\PetaVjezba4\PetaVjezba4\bin\Debug\PetaVjezba4.exe
+C:\Users\flyin\Documents\C#\PetaVjezba4\PetaVjezba4\bin\Debug\PetaVjezba4.pdb
+C:\Users\flyin\Documents\C#\PetaVjezba4\PetaVjezba4\obj\Debug\PetaVjezba4.csproj.AssemblyReference.cache
+C:\Users\flyin\Documents\C#\PetaVjezba4\PetaVjezba4\obj\Debug\PetaVjezba4.csproj.CoreCompileInputs.cache
+C:\Users\flyin\Documents\C#\PetaVjezba4\PetaVjezba4\obj\Debug\PetaVjezba4.exe
+C:\Users\flyin\Documents\C#\PetaVjezba4\PetaVjezba4\obj\Debug\PetaVjezba4.pdb

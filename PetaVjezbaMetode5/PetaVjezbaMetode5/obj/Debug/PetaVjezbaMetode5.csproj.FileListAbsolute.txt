@@ -1,0 +1,6 @@
+C:\Users\flyin\Documents\C#\PetaVjezbaMetode5\PetaVjezbaMetode5\bin\Debug\PetaVjezbaMetode5.exe.config
+C:\Users\flyin\Documents\C#\PetaVjezbaMetode5\PetaVjezbaMetode5\bin\Debug\PetaVjezbaMetode5.exe
+C:\Users\flyin\Documents\C#\PetaVjezbaMetode5\PetaVjezbaMetode5\bin\Debug\PetaVjezbaMetode5.pdb
+C:\Users\flyin\Documents\C#\PetaVjezbaMetode5\PetaVjezbaMetode5\obj\Debug\PetaVjezbaMetode5.csproj.CoreCompileInputs.cache
+C:\Users\flyin\Documents\C#\PetaVjezbaMetode5\PetaVjezbaMetode5\obj\Debug\PetaVjezbaMetode5.exe
+C:\Users\flyin\Documents\C#\PetaVjezbaMetode5\PetaVjezbaMetode5\obj\Debug\PetaVjezbaMetode5.pdb
