@@ -1,0 +1,7 @@
+C:\Users\flyin\Documents\Faks\C#\EPT\EPT\bin\Debug\EPT.exe.config
+C:\Users\flyin\Documents\Faks\C#\EPT\EPT\bin\Debug\EPT.exe
+C:\Users\flyin\Documents\Faks\C#\EPT\EPT\bin\Debug\EPT.pdb
+C:\Users\flyin\Documents\Faks\C#\EPT\EPT\obj\Debug\EPT.csproj.AssemblyReference.cache
+C:\Users\flyin\Documents\Faks\C#\EPT\EPT\obj\Debug\EPT.csproj.CoreCompileInputs.cache
+C:\Users\flyin\Documents\Faks\C#\EPT\EPT\obj\Debug\EPT.exe
+C:\Users\flyin\Documents\Faks\C#\EPT\EPT\obj\Debug\EPT.pdb
