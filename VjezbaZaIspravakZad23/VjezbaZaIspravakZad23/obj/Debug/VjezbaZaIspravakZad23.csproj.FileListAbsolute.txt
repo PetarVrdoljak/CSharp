@@ -1,0 +1,7 @@
+C:\Users\flyin\Documents\C#\VjezbaZaIspravakZad23\VjezbaZaIspravakZad23\bin\Debug\VjezbaZaIspravakZad23.exe.config
+C:\Users\flyin\Documents\C#\VjezbaZaIspravakZad23\VjezbaZaIspravakZad23\bin\Debug\VjezbaZaIspravakZad23.exe
+C:\Users\flyin\Documents\C#\VjezbaZaIspravakZad23\VjezbaZaIspravakZad23\bin\Debug\VjezbaZaIspravakZad23.pdb
+C:\Users\flyin\Documents\C#\VjezbaZaIspravakZad23\VjezbaZaIspravakZad23\obj\Debug\VjezbaZaIspravakZad23.csproj.AssemblyReference.cache
+C:\Users\flyin\Documents\C#\VjezbaZaIspravakZad23\VjezbaZaIspravakZad23\obj\Debug\VjezbaZaIspravakZad23.csproj.CoreCompileInputs.cache
+C:\Users\flyin\Documents\C#\VjezbaZaIspravakZad23\VjezbaZaIspravakZad23\obj\Debug\VjezbaZaIspravakZad23.exe
+C:\Users\flyin\Documents\C#\VjezbaZaIspravakZad23\VjezbaZaIspravakZad23\obj\Debug\VjezbaZaIspravakZad23.pdb

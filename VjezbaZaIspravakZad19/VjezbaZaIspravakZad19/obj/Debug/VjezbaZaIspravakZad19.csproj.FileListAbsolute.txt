@@ -1,0 +1,7 @@
+C:\Users\flyin\Documents\C#\VjezbaZaIspravakZad19\VjezbaZaIspravakZad19\bin\Debug\VjezbaZaIspravakZad19.exe.config
+C:\Users\flyin\Documents\C#\VjezbaZaIspravakZad19\VjezbaZaIspravakZad19\bin\Debug\VjezbaZaIspravakZad19.exe
+C:\Users\flyin\Documents\C#\VjezbaZaIspravakZad19\VjezbaZaIspravakZad19\bin\Debug\VjezbaZaIspravakZad19.pdb
+C:\Users\flyin\Documents\C#\VjezbaZaIspravakZad19\VjezbaZaIspravakZad19\obj\Debug\VjezbaZaIspravakZad19.csproj.AssemblyReference.cache
+C:\Users\flyin\Documents\C#\VjezbaZaIspravakZad19\VjezbaZaIspravakZad19\obj\Debug\VjezbaZaIspravakZad19.csproj.CoreCompileInputs.cache
+C:\Users\flyin\Documents\C#\VjezbaZaIspravakZad19\VjezbaZaIspravakZad19\obj\Debug\VjezbaZaIspravakZad19.exe
+C:\Users\flyin\Documents\C#\VjezbaZaIspravakZad19\VjezbaZaIspravakZad19\obj\Debug\VjezbaZaIspravakZad19.pdb
