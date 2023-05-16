@@ -1,0 +1,7 @@
+C:\Users\flyin\Documents\C#\PripremaZaPrviKolokvij\PripremaZaPrviKolokvij\bin\Debug\PripremaZaPrviKolokvij.exe.config
+C:\Users\flyin\Documents\C#\PripremaZaPrviKolokvij\PripremaZaPrviKolokvij\bin\Debug\PripremaZaPrviKolokvij.exe
+C:\Users\flyin\Documents\C#\PripremaZaPrviKolokvij\PripremaZaPrviKolokvij\bin\Debug\PripremaZaPrviKolokvij.pdb
+C:\Users\flyin\Documents\C#\PripremaZaPrviKolokvij\PripremaZaPrviKolokvij\obj\Debug\PripremaZaPrviKolokvij.csproj.AssemblyReference.cache
+C:\Users\flyin\Documents\C#\PripremaZaPrviKolokvij\PripremaZaPrviKolokvij\obj\Debug\PripremaZaPrviKolokvij.csproj.CoreCompileInputs.cache
+C:\Users\flyin\Documents\C#\PripremaZaPrviKolokvij\PripremaZaPrviKolokvij\obj\Debug\PripremaZaPrviKolokvij.exe
+C:\Users\flyin\Documents\C#\PripremaZaPrviKolokvij\PripremaZaPrviKolokvij\obj\Debug\PripremaZaPrviKolokvij.pdb
